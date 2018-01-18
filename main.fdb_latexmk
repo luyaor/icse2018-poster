@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1516272560 "main.aux" "main.bbl" "main" 1516272602
+["bibtex main"] 1516288789 "main.aux" "main.bbl" "main" 1516288793
   "./ACM-Reference-Format.bst" 1516069838 81890 d0c962ee7b00c892f073ec6439091590 ""
-  "main.aux" 1516272601 3524 d8e81f5bd3a72d84fc3a54b07f80066f ""
+  "main.aux" 1516288792 3557 f708090c38a34f9cc561b99f14d83133 ""
   "references.bib" 1516159855 53409 ddee7b1a8caac9fd5d6137be40d00640 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1516272599 "main.tex" "main.pdf" "main" 1516272602
+["pdflatex"] 1516288790 "main.tex" "main.pdf" "main" 1516288793
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490133665 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490133665 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490133665 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -147,17 +147,17 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1515989141 4129592 7e2eb7ed2c2126f9459f3f282ed9d7bb ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "acmart.cls" 1516069838 83989 64d4047a0febcc13d23d38b1ee1e8575 ""
-  "body.tex" 1516272598 6892 c0da92faab5ac228a476287e50714002 ""
-  "comment.cut" 1516272601 7 faf398e136caeb20d0dae8b60d540738 ""
-  "main.aux" 1516272601 3524 d8e81f5bd3a72d84fc3a54b07f80066f ""
-  "main.bbl" 1516272561 8544 f94be6326b273d2dd91018a1e48bae3a "bibtex main"
-  "main.out" 1516272601 1140 95270182118634db8c3f664c9e34ce4f ""
-  "main.tex" 1516250235 2369 90cb3edf57e93c61236efcda14b95445 ""
-  "pic5.pdf" 1516069838 41255 2b44f7f980bee2d6df9fcd3378d1537a ""
-  "tensorflow_snapshot.pdf" 1516252068 111133 21e5a606577cefd1691747a0d9922e0f ""
+  "body.tex" 1516275703 7040 9c1f1792a91c024e8b7f2e4512730598 ""
+  "comment.cut" 1516288792 7 faf398e136caeb20d0dae8b60d540738 ""
+  "figures/pic5.pdf" 1516069838 41255 2b44f7f980bee2d6df9fcd3378d1537a ""
+  "figures/tensorflow_snapshot3.pdf" 1516273814 102231 d28c5a7e7930628da7869d92c2e755b5 ""
+  "main.aux" 1516288792 3557 f708090c38a34f9cc561b99f14d83133 ""
+  "main.bbl" 1516288790 8544 f94be6326b273d2dd91018a1e48bae3a "bibtex main"
+  "main.out" 1516288792 1140 95270182118634db8c3f664c9e34ce4f ""
+  "main.tex" 1516285593 2396 2a04992a8dce8cd56a5ecedbaa6d4f92 ""
   (generated)
-  "main.aux"
   "main.out"
-  "main.pdf"
-  "comment.cut"
   "main.log"
+  "comment.cut"
+  "main.pdf"
+  "main.aux"
