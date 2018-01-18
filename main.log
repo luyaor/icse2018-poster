@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.15)  18 JAN 2018 22:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.15)  18 JAN 2018 22:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -985,32 +985,94 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 7.3pt on input line 81.
  (./body.tex
+
+Package natbib Warning: Citation `dubinsky2013exploratory' on page 1 undefined 
+on input line 2.
+
+
+Package natbib Warning: Citation `bitzer2006impact' on page 1 undefined on inpu
+t line 2.
+
+
+Package natbib Warning: Citation `ernst2010code' on page 1 undefined on input l
+ine 2.
+
+
+Package natbib Warning: Citation `vetter2007open' on page 1 undefined on input 
+line 2.
+
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 2.
+
+Package natbib Warning: Citation `ZSLXWK:ICSE18' on page 1 undefined on input l
+ine 2.
+
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 5.5pt on input line 2.
-<tensorflow_snapshot3.pdf, id=57, 845.04686pt x 597.50786pt>
-File: tensorflow_snapshot3.pdf Graphic file (type pdf)
 
-<use tensorflow_snapshot3.pdf>
-Package pdftex.def Info: tensorflow_snapshot3.pdf used on input line 16.
+Package natbib Warning: Citation `berger2014three' on page 1 undefined on input
+ line 3.
+
+
+Package natbib Warning: Citation `Duc:2014:FCM:2652524.2652546' on page 1 undef
+ined on input line 3.
+
+
+Package natbib Warning: Citation `dubinsky2013exploratory' on page 1 undefined 
+on input line 3.
+
+
+Package natbib Warning: Citation `stanciulescu2015forked' on page 1 undefined o
+n input line 3.
+
+
+Package natbib Warning: Citation `ZSLXWK:ICSE18' on page 1 undefined on input l
+ine 5.
+
+<./figures/tensorflow_snapshot3.pdf, id=11, 845.04686pt x 597.50786pt>
+File: ./figures/tensorflow_snapshot3.pdf Graphic file (type pdf)
+
+<use ./figures/tensorflow_snapshot3.pdf>
+Package pdftex.def Info: ./figures/tensorflow_snapshot3.pdf used on input line 
+16.
 (pdftex.def)             Requested size: 253.516pt x 179.25374pt.
 
 Overfull \hbox (12.36852pt too wide) in paragraph at lines 16--17
  [][] 
  []
 
+
+Package natbib Warning: Citation `salton1988term' on page 1 undefined on input 
+line 21.
+
 [1.1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./tensorflow_snapshot3.pdf>]
+ <./figures/tensorflow_snapshot3.pdf>]
+
+Package natbib Warning: Citation `Mikkonen2011' on page 2 undefined on input li
+ne 25.
+
+
+Package natbib Warning: Citation `Robles2012' on page 2 undefined on input line
+ 25.
+
+
+Package natbib Warning: Citation `dubinsky2013exploratory' on page 2 undefined 
+on input line 25.
+
+
+Package natbib Warning: Citation `stanciulescu2015forked' on page 2 undefined o
+n input line 25.
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 30.
 
-<pic5.pdf, id=97, 845.04686pt x 597.50786pt>
-File: pic5.pdf Graphic file (type pdf)
- <use pic5.pdf>
-Package pdftex.def Info: pic5.pdf used on input line 32.
+<./figures/pic5.pdf, id=41, 845.04686pt x 597.50786pt>
+File: ./figures/pic5.pdf Graphic file (type pdf)
+
+<use ./figures/pic5.pdf>
+Package pdftex.def Info: ./figures/pic5.pdf used on input line 32.
 (pdftex.def)             Requested size: 253.516pt x 179.25374pt.
 
 Overfull \hbox (12.36852pt too wide) in paragraph at lines 32--33
@@ -1025,23 +1087,41 @@ Straight input of comment.cut. (./comment.cut)) (./main.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 49.
 )
+
+Package natbib Warning: There were undefined citations.
+
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.0pt on input line 87.
- [2.2 <./pic5.pdf>]
+[2.2 <./figures/pic5.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
-(./main.aux)
+ (./main.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 95270182118634DB8C3F664C9E34CE4F;1140.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  95270182118634DB8C3F664C9E34CE4F;1140.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 17849 strings out of 492995
- 268709 string characters out of 6132704
- 384202 words of memory out of 5000000
- 20710 multiletter control sequences out of 15000+600000
- 113263 words of font info for 200 fonts, out of 8000000 for 9000
+ 17840 strings out of 492995
+ 268680 string characters out of 6132704
+ 383289 words of memory out of 5000000
+ 20700 multiletter control sequences out of 15000+600000
+ 113361 words of font info for 200 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  60i,11n,94p,1850b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
@@ -1053,10 +1133,10 @@ b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLibertine
 T.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLiber
 tineTB.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/Lin
 LibertineTI.pfb>
-Output written on main.pdf (2 pages, 454725 bytes).
+Output written on main.pdf (2 pages, 453501 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 133 compressed objects within 2 object streams
+ 114 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  28 named destinations out of 1000 (max. 500000)
- 30303 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 30231 words of extra memory for PDF output out of 35830 (max. 10000000)
 
