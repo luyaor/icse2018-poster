@@ -1,0 +1,87 @@
+\documentclass[sigconf]{acmart}
+
+
+\newcommand{\Luyao}[1]{\textcolor{orange}{(Luyao: #1)}}
+\newcommand{\Shurui}[1]{\textcolor{blue}{(Shurui: #1)}}
+\newcommand{\CK}[1]{\textcolor{purple}{(CK: #1)}}
+\newcommand{\Andrzej}[1]{\textcolor{magenta}{(Andrzej: #1)}}
+
+
+\usepackage{booktabs} % For formal tables
+\usepackage{float}
+
+% Copyright
+\setcopyright{acmcopyright}
+\settopmatter{printacmref=false} % Removes citation information below abstract
+\renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
+\pagestyle{plain} % removes running headers
+% DOI
+\acmDOI{10.475/123_4}
+
+% ISBN
+\acmISBN{123-4567-24-567/08/06}
+
+%Conference
+\acmConference[ICSE'2018]{ACM International Conference on Software Engineering}{May 2018}{Goteborg, Sweden} 
+\acmYear{2018}
+\copyrightyear{2018}
+
+\acmPrice{15.00}
+
+\begin{document}
+\title{Poster: Forks Insight: A Tool Overviewing Forks}
+
+	\author{Luyao Ren}
+	\affiliation{
+		\institution{Peking University}
+		%\country{China}
+	}
+	\email{fancycoder@pku.edu.cn}
+
+	\author{Shurui Zhou}
+	\affiliation{
+		\institution{Carnegie Mellon University}
+		%\country{USA}
+	}
+	\email{shuiruiz@cs.cmu.edu}
+	
+	\author{Christian K\"{a}stner} 
+	\affiliation{
+		\institution{Carnegie Mellon University}
+		%\country{USA}
+	}
+	\email{kaestner@cs.cmu.edu}
+	
+    \author{Andrzej W\k{a}sowski}
+	\affiliation{%
+		\institution{IT University of Copenhagen}
+		%\country{Denmark}
+	}
+	\email{wasowski@itu.dk}
+
+	% The default list of authors is too long for headers}
+	\renewcommand{\shortauthors}{L. Ren et al.}
+	
+
+\begin{abstract}
+\Luyao{TODO} This paper provides a sample of a \LaTeX\ document which conforms,
+somewhat loosely, to the formatting guidelines for
+ACM SIG Proceedings. This paper provides a sample of a \LaTeX\ document which conforms,
+somewhat loosely, to the formatting guidelines for
+ACM SIG Proceedings. This paper provides a sample of a \LaTeX\ document which conforms,
+somewhat loosely, to the formatting guidelines for
+ACM SIG Proceedings. This paper provides a sample of a \LaTeX\ document which conforms,
+somewhat loosely, to the formatting guidelines for
+ACM SIG Proceedings.
+\end{abstract}
+
+\keywords{\Luyao{TODO} word, word, word, word, word, word, word, word, word, word, word, word}
+
+
+\maketitle
+
+\input{body}
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{references} 
+
+\end{document}

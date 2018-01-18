@@ -1,0 +1,194 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{11}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Berger, Nair, Rublack, Atlee, Czarnecki, and
+  W{\k{a}}sowski}{Berger et~al\mbox{.}}{2014}]%
+        {berger2014three}
+\bibfield{author}{\bibinfo{person}{Thorsten Berger}, \bibinfo{person}{Divya
+  Nair}, \bibinfo{person}{Ralf Rublack}, \bibinfo{person}{Joanne~M Atlee},
+  \bibinfo{person}{Krzysztof Czarnecki}, {and} \bibinfo{person}{Andrzej
+  W{\k{a}}sowski}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Three cases of feature-based variability modeling
+  in industry}. In \bibinfo{booktitle}{{\em International Conference on Model
+  Driven Engineering Languages and Systems}}. Springer,
+  \bibinfo{pages}{302--319}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bitzer and Schr{\"o}der}{Bitzer and
+  Schr{\"o}der}{2006}]%
+        {bitzer2006impact}
+\bibfield{author}{\bibinfo{person}{J{\"u}rgen Bitzer} {and}
+  \bibinfo{person}{Philipp~JH Schr{\"o}der}.} \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{The impact of entry and competition by open source
+  software on innovation activity}.
+\newblock \bibinfo{journal}{{\em The economics of open source software
+  development\/}} (\bibinfo{year}{2006}), \bibinfo{pages}{219--245}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dubinsky, Rubin, Berger, Duszynski, Becker,
+  and Czarnecki}{Dubinsky et~al\mbox{.}}{2013}]%
+        {dubinsky2013exploratory}
+\bibfield{author}{\bibinfo{person}{Yael Dubinsky}, \bibinfo{person}{Julia
+  Rubin}, \bibinfo{person}{Theodore Berger}, \bibinfo{person}{Slawomir
+  Duszynski}, \bibinfo{person}{Matthias Becker}, {and}
+  \bibinfo{person}{Krzysztof Czarnecki}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{An exploratory study of cloning in industrial
+  software product lines}. In \bibinfo{booktitle}{{\em Software Maintenance and
+  Reengineering (CSMR), 2013 17th European Conference on}}. IEEE,
+  \bibinfo{pages}{25--34}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Duc, Mockus, Hackbarth, and Palframan}{Duc
+  et~al\mbox{.}}{2014}]%
+        {Duc:2014:FCM:2652524.2652546}
+\bibfield{author}{\bibinfo{person}{Anh~Nguyen Duc}, \bibinfo{person}{Audris
+  Mockus}, \bibinfo{person}{Randy Hackbarth}, {and} \bibinfo{person}{John
+  Palframan}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Forking and Coordination in Multi-platform
+  Development: A Case Study}. In \bibinfo{booktitle}{{\em Proceedings of the
+  8th ACM/IEEE International Symposium on Empirical Software Engineering and
+  Measurement}} {\em (\bibinfo{series}{ESEM '14})}. \bibinfo{publisher}{ACM},
+  \bibinfo{address}{New York, NY, USA}, Article \bibinfo{articleno}{59},
+  \bibinfo{numpages}{10}~pages.
+\newblock
+\showISBNx{978-1-4503-2774-9}
+\showDOI{%
+\url{https://doi.org/10.1145/2652524.2652546}}
+
+
+\bibitem[\protect\citeauthoryear{Ernst, Easterbrook, and MyLOPOULOS}{Ernst
+  et~al\mbox{.}}{2010}]%
+        {ernst2010code}
+\bibfield{author}{\bibinfo{person}{Neil~A Ernst}, \bibinfo{person}{Steve
+  Easterbrook}, {and} \bibinfo{person}{John MyLOPOULOS}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Code forking in open-source software: a
+  requirements perspective}.
+\newblock \bibinfo{journal}{{\em arXiv preprint arXiv:1004.2889\/}}
+  (\bibinfo{year}{2010}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mikkonen and Nyman}{Mikkonen and
+  Nyman}{2011}]%
+        {Mikkonen2011}
+\bibfield{author}{\bibinfo{person}{Tommi Mikkonen} {and} \bibinfo{person}{Linus
+  Nyman}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{{To Fork or Not to Fork: Fork Motivations in
+  SourceForge Projects}}.
+\newblock \bibinfo{journal}{{\em Int. J. Open Source Softw. Process.\/}}
+  \bibinfo{volume}{3}, \bibinfo{number}{3} (\bibinfo{date}{July}
+  \bibinfo{year}{2011}), \bibinfo{pages}{1--9}.
+\newblock
+\showISSN{1942-3926}
+\showDOI{%
+\url{https://doi.org/10.4018/jossp.2011070101}}
+
+
+\bibitem[\protect\citeauthoryear{Robles and Gonz{\'{a}}lez{-}Barahona}{Robles
+  and Gonz{\'{a}}lez{-}Barahona}{2012}]%
+        {Robles2012}
+\bibfield{author}{\bibinfo{person}{Gregorio Robles} {and}
+  \bibinfo{person}{Jes{\'{u}}s~M. Gonz{\'{a}}lez{-}Barahona}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{{A Comprehensive Study of Software Forks: Dates,
+  Reasons and Outcomes}}. In \bibinfo{booktitle}{{\em Open Source Systems:
+  Long-Term Sustainability - 8th {IFIP} {WG} 2.13 International Conference,
+  {OSS} 2012, Hammamet, Tunisia, September 10-13, 2012. Proceedings}}.
+  \bibinfo{pages}{1--14}.
+\newblock
+\showDOI{%
+\url{https://doi.org/10.1007/978-3-642-33442-9_1}}
+
+
+\bibitem[\protect\citeauthoryear{Salton and Buckley}{Salton and
+  Buckley}{1988}]%
+        {salton1988term}
+\bibfield{author}{\bibinfo{person}{Gerard Salton} {and}
+  \bibinfo{person}{Christopher Buckley}.} \bibinfo{year}{1988}\natexlab{}.
+\newblock \showarticletitle{Term-weighting approaches in automatic text
+  retrieval}.
+\newblock \bibinfo{journal}{{\em Information processing \& management\/}}
+  \bibinfo{volume}{24}, \bibinfo{number}{5} (\bibinfo{year}{1988}),
+  \bibinfo{pages}{513--523}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{St\u{a}nciulescu, Schulze, and
+  W\k{a}sowski}{St\u{a}nciulescu et~al\mbox{.}}{2015}]%
+        {stanciulescu2015forked}
+\bibfield{author}{\bibinfo{person}{{\c{S}}tefan St\u{a}nciulescu},
+  \bibinfo{person}{Sandro Schulze}, {and} \bibinfo{person}{Andrzej
+  W\k{a}sowski}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{{Forked and Integrated Variants in an Open-Source
+  Firmware Project}}. In \bibinfo{booktitle}{{\em 31st International Conference
+  on Software Maintenance and Evolution}} {\em (\bibinfo{series}{ICSME'15})}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vetter}{Vetter}{2007}]%
+        {vetter2007open}
+\bibfield{author}{\bibinfo{person}{Greg~R Vetter}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Open Source Licensing and Scattering Opportunism in
+  Software Standards}.
+\newblock \bibinfo{journal}{{\em BCL Rev.\/}}  \bibinfo{volume}{48}
+  (\bibinfo{year}{2007}), \bibinfo{pages}{225}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhou, St{\~{a}}nciulescu, Le{\ss}enich, Xiong,
+  W{\k{a}}sowski, and K{\"a}stner}{Zhou et~al\mbox{.}}{2018}]%
+        {ZSLXWK:ICSE18}
+\bibfield{author}{\bibinfo{person}{Shurui Zhou}, \bibinfo{person}{{\c{S}}tefan
+  St{\~{a}}nciulescu}, \bibinfo{person}{Olaf Le{\ss}enich},
+  \bibinfo{person}{Yingfei Xiong}, \bibinfo{person}{Andrzej W{\k{a}}sowski},
+  {and} \bibinfo{person}{Christian K{\"a}stner}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Identifying Features in Forks}. In
+  \bibinfo{booktitle}{{\em Proceedings of the 40th International Conference on
+  Software Engineering (ICSE)}}. \bibinfo{publisher}{ACM Press},
+  \bibinfo{address}{New York, NY}.
+\newblock
+
+
+\end{thebibliography}

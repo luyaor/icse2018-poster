@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in berger2014three
+Warning--empty address in berger2014three
+Warning--no number and no volume in bitzer2006impact
+Warning--empty publisher in dubinsky2013exploratory
+Warning--empty address in dubinsky2013exploratory
+Warning--no number and no volume in ernst2010code
+Warning--page numbers missing in both pages and numpages fields in ernst2010code
+Warning--numpages field, but no articleno or eid field, in Mikkonen2011
+Warning--empty publisher in Robles2012
+Warning--empty address in Robles2012
+Warning--empty publisher in stanciulescu2015forked
+Warning--empty address in stanciulescu2015forked
+Warning--page numbers missing in both pages and numpages fields in stanciulescu2015forked
+Warning--page numbers missing in both pages and numpages fields in ZSLXWK:ICSE18
+You've used 11 entries,
+            5795 wiz_defined-function locations,
+            1609 strings with 23975 characters,
+and the built_in function-call counts, 13553 in all, are:
+= -- 1687
+> -- 528
+< -- 0
++ -- 179
+- -- 184
+* -- 986
+:= -- 1377
+add.period$ -- 54
+call.type$ -- 11
+change.case$ -- 81
+chr.to.int$ -- 11
+cite$ -- 25
+duplicate$ -- 1181
+empty$ -- 830
+format.name$ -- 224
+if$ -- 3273
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 49
+newline$ -- 130
+num.names$ -- 88
+pop$ -- 472
+preamble$ -- 1
+purify$ -- 180
+quote$ -- 0
+skip$ -- 396
+stack$ -- 0
+substring$ -- 909
+swap$ -- 103
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 260
+warning$ -- 14
+while$ -- 83
+width$ -- 0
+write$ -- 234
+(There were 14 warnings)
