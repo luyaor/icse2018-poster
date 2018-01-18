@@ -1,4 +1,4 @@
-Use Compile main.tex to generate pdf.
+Compile main.tex to generate pdf.
 
 Main content are in body.tex
 
