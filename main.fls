@@ -348,9 +348,9 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
-INPUT ./figures/tensorflow_snapshot4.pdf
-INPUT ./figures/tensorflow_snapshot4.pdf
-INPUT ./figures/tensorflow_snapshot4.pdf
+INPUT ./figures/tensorflow_cuda2.png
+INPUT ./figures/tensorflow_cuda2.png
+INPUT ./figures/tensorflow_cuda2.png
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/libertine/LinBiolinumTB-tlf-t1.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinBiolinumTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -370,11 +370,6 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/libertine/LinLibertineT
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
-INPUT ./figures/pic5.pdf
-INPUT ./figures/pic5.pdf
-INPUT ./figures/pic5.pdf
 OUTPUT comment.cut
 INPUT comment.cut
 INPUT comment.cut
@@ -382,6 +377,8 @@ INPUT main.bbl
 INPUT main.bbl
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf

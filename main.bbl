@@ -91,8 +91,6 @@
   \bibinfo{numpages}{10}~pages.
 \newblock
 \showISBNx{978-1-4503-2774-9}
-\showDOI{%
-\url{https://doi.org/10.1145/2652524.2652546}}
 
 
 \bibitem[\protect\citeauthoryear{Ernst, Easterbrook, and MyLOPOULOS}{Ernst
@@ -120,8 +118,6 @@
   \bibinfo{year}{2011}), \bibinfo{pages}{1--9}.
 \newblock
 \showISSN{1942-3926}
-\showDOI{%
-\url{https://doi.org/10.4018/jossp.2011070101}}
 
 
 \bibitem[\protect\citeauthoryear{Robles and Gonz{\'{a}}lez{-}Barahona}{Robles
@@ -136,8 +132,6 @@
   {OSS} 2012, Hammamet, Tunisia, September 10-13, 2012. Proceedings}}.
   \bibinfo{pages}{1--14}.
 \newblock
-\showDOI{%
-\url{https://doi.org/10.1007/978-3-642-33442-9_1}}
 
 
 \bibitem[\protect\citeauthoryear{Salton and Buckley}{Salton and

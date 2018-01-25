@@ -26,36 +26,36 @@ Warning--page numbers missing in both pages and numpages fields in stanciulescu2
 Warning--page numbers missing in both pages and numpages fields in ZSLXWK:ICSE18
 You've used 11 entries,
             5795 wiz_defined-function locations,
-            1609 strings with 23975 characters,
-and the built_in function-call counts, 13553 in all, are:
-= -- 1687
+            1603 strings with 23772 characters,
+and the built_in function-call counts, 13535 in all, are:
+= -- 1678
 > -- 528
 < -- 0
 + -- 179
 - -- 184
-* -- 986
+* -- 980
 := -- 1377
 add.period$ -- 54
 call.type$ -- 11
 change.case$ -- 81
 chr.to.int$ -- 11
 cite$ -- 25
-duplicate$ -- 1181
-empty$ -- 830
+duplicate$ -- 1184
+empty$ -- 833
 format.name$ -- 224
-if$ -- 3273
+if$ -- 3276
 int.to.chr$ -- 2
 int.to.str$ -- 1
 missing$ -- 49
-newline$ -- 130
+newline$ -- 124
 num.names$ -- 88
-pop$ -- 472
+pop$ -- 481
 preamble$ -- 1
 purify$ -- 180
 quote$ -- 0
 skip$ -- 396
 stack$ -- 0
-substring$ -- 909
+substring$ -- 900
 swap$ -- 103
 text.length$ -- 0
 text.prefix$ -- 0
@@ -64,5 +64,5 @@ type$ -- 260
 warning$ -- 14
 while$ -- 83
 width$ -- 0
-write$ -- 234
+write$ -- 228
 (There were 14 warnings)

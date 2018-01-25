@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1516355299 "main.aux" "main.bbl" "main" 1516355330
+["bibtex main"] 1516837374 "main.aux" "main.bbl" "main" 1516837897
   "./ACM-Reference-Format.bst" 1516069838 81890 d0c962ee7b00c892f073ec6439091590 ""
-  "main.aux" 1516355301 4077 da20aad69b62b62aa13cdbbdf60b941d ""
-  "references.bib" 1516159855 53409 ddee7b1a8caac9fd5d6137be40d00640 ""
+  "main.aux" 1516837897 3716 28b25473281794bf2aaf5a8a33eda087 ""
+  "references.bib" 1516706164 53011 a897be42f0f403fcbd70730ffe7e5cc2 ""
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1516355300 "main.tex" "main.pdf" "main" 1516355330
+  "main.blg"
+["pdflatex"] 1516837894 "main.tex" "main.pdf" "main" 1516837897
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490133665 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490133665 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490133665 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -211,17 +211,16 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1515989141 4129592 7e2eb7ed2c2126f9459f3f282ed9d7bb ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "acmart.cls" 1516069838 83989 64d4047a0febcc13d23d38b1ee1e8575 ""
-  "body.tex" 1516354017 7642 e7d96b8b179e325ff7a581dbb2a1ea38 ""
-  "comment.cut" 1516355301 7 faf398e136caeb20d0dae8b60d540738 ""
-  "figures/pic5.pdf" 1516069838 41255 2b44f7f980bee2d6df9fcd3378d1537a ""
-  "figures/tensorflow_snapshot4.pdf" 1516339962 93150 c7711000029e502e32ccce24ce9ba7e4 ""
-  "main.aux" 1516355301 4077 da20aad69b62b62aa13cdbbdf60b941d ""
-  "main.bbl" 1516355300 8544 f94be6326b273d2dd91018a1e48bae3a "bibtex main"
-  "main.out" 1516355301 1071 0a0fa41b2488d3c19903db1c948d3249 ""
-  "main.tex" 1516355198 2375 bba1b68a9ab011650c8d0d27e970b308 ""
+  "body.tex" 1516837889 7859 a754fb0d518b02357ff43d06ab459430 ""
+  "comment.cut" 1516837897 7 faf398e136caeb20d0dae8b60d540738 ""
+  "figures/tensorflow_cuda2.png" 1516807672 113828 e8393b3b4749c5bca23a9952c24d8f50 ""
+  "main.aux" 1516837897 3716 28b25473281794bf2aaf5a8a33eda087 ""
+  "main.bbl" 1516837374 8365 789ac21b31099bc7b4862bf496d8eb2b "bibtex main"
+  "main.out" 1516837897 1071 32680b838b72510abea7a7afbaa3243a ""
+  "main.tex" 1516705341 2440 6a295af02b17cfd6b29a8d7193e34463 ""
   (generated)
   "main.aux"
-  "main.pdf"
-  "main.log"
-  "main.out"
   "comment.cut"
+  "main.out"
+  "main.log"
+  "main.pdf"
