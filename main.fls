@@ -327,11 +327,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinBiolinumTB-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
-INPUT body.tex
-INPUT body.tex
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
@@ -346,6 +343,9 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+INPUT body.tex
+INPUT body.tex
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT ./figures/tensorflow_cuda2.png
