@@ -10,9 +10,9 @@ Forks Insight (\url{http://www.forks-insight.com}) is a more lightweight and acc
 
 Forks Insight provides facilities to explore unintegrated changes to find opportunities for reuse, to find inspirations for further development, to potentially connect developers working on similar topics.
 %
-Forks Insight analyzes each active fork of a repository and takes the diff between the fork point and the latest commits \Shurui{need to check}  of the fork and extracting keywords from code changes, comments and commit messages.
+It analyzes each active fork of a repository by taking the diff between the latest commit of both the upstream and the fork, and extracting keywords from corresponding code changes, comments and commit messages.
 %
-Besides, Forks Insight presents statistical data of code changes in the granularity of commit, file and line. The user interface of Forks Insight is shown in Fig.1. 
+Besides, Forks Insight presents statistical data of code changes in the granularity of commit, file and line \todo{such as .. } . The user interface of Forks Insight is shown in Fig.~\ref{GUI}.
 
 Users could log in with their GitHub accounts, and subscribe repositories on GitHub that they are interested in. Fork Insight supports importing repositories from user's public repositories list or searching by a repository url. Forks Insight will start crawling and analyzing data if the repository is not in the database yet and remind the user when finished.
 
@@ -30,27 +30,30 @@ To give developers a quick summary of what code changes have been made in each f
 %
 Developers fork a repository for different reasons: adding new features, fixing bugs, and changing configuration, etc.~\cite{Mikkonen2011,Robles2012,dubinsky2013exploratory,stanciulescu2015forked}.
 %
-Since tagging is a simple and intuitive way to summarize the purpose of forking and also convenient to cluster similar forks. So we add a column at the end of each row to allow user to annotate the tags manually on forks. We hope user's contribution on tags can not only help themselves maintain and understand each fork which may reduce the redundant development, but also help the whole open source community, especially for the new users who are interested in this repository but not familiar with this repository. The data of tagging will also be useful for future research work.
+This information could help developers of interests quickly find the fork they want to explore.
+%
+Thus, Forks Insight allows users to tag each fork by the main activity based on their understanding.
+(see the last column in Fig.~\ref{GUI}). \Shurui{TODO: modify the screen-shot, show different tags, something like Feature-IDE's tags.} 
+ We hope user's input on tags could not only help themselves maintain and understand each fork, but also help the whole community, especially for the new users who are not familiar with this repository to get a better overview. The tagging result will also be useful for future research.
+ 
+\subsection{Searching Related Forks}
 
-\Shurui{Fork Insight allows users to tag each fork by the main activity of each fork based on their understanding. This data could help users to manage and classify forks with similar goals.}
+The interviews we did for INFOX show that the problem of redundant development exists in forks. For example, a developer found another fork implemented a very simple one-function as they did several years ago, and he said ``\emph{I think they should use our code, there is great reason to use it.''} Another developer said: \emph{"I can see multiple forks are working on the similar problem. This one looks like it is adding [...] that I already added"} ~\cite{ZSLXWK:ICSE18}.
 
-\subsection{Searching}
-
-The interviews we did for INFOX show that the problem of redundant development exists in forks. For example, a developer said :\emph{"It does look like somebody did a very simple one-function [...] system. [checking the code] I think they should use our code, there is great reason to use it.''} Another one said: \emph{"I can see multiple forks are working on the similar problem. This one looks like it is adding [...] that I already added"} ~\cite{ZSLXWK:ICSE18}.
-
-Keywords searching in Forks Insight is a simple and practical way to try to solve redundant development.\Luyao{check} For example, in Fig. 1, searching for "cuda" in forks of tensorflow (an open-source software library developed by Google) will obtain\Luyao{obtain?} several forks and most of them are related to GPU configuration. The example shows that, by using keyword search in Forks Insight, user could find similar forks and possibly reduce the redundant development.
+To identify redundant development, we design the functionality of keywords searching, which is a simple and practical way to find code changes that are modifying the same keyword. For example, in Fig.~\ref{GUI}, if developer search for "cuda", which is a common keyword related to GPU configuration in repository of \emph{tensorflow/tensorflow}, Forks Insight will return several forks that have made code changes related to ``cuda''. This example shows that, by using keyword searching, user could find similar forks and potentially reduce the redundant development.
 
 \iffalse
-\begin{figure}[H]
+\begin{figure}[H] 
 \centering
 \includegraphics[scale=0.3]{shot2.png}
 \caption{An example of searching for similar forks.}
 \vspace{-10pt}
+
 \end{figure}
 \fi
 
 \section{Conclusions and Future Work}
-We implemented Forks Insight to help developers get an overview of forks. The current release version focuses on simple analytics for the high level overview which is lightweight, scalable and practical. it uses the keyword extraction of INFOX and extends it with a user-friendly interactive web interface and features for searching and tagging. In order to improve the usability of Forks Insight, we plan to design a user study. And we would like to add more interactive elements and powerful functions into our tool. There are several directions we are considering to move forward: using more visualization to show the meaningful data; identifying features in forks; summarizing the activities of forks by natural language.
+We implemented Forks Insight to help developers get an overview of forks. The current release version focuses on simple analytics for the high level overview which is lightweight, scalable and practical. it uses the keyword extraction of INFOX and extends We designed a user-friendly interactive web interface and features for searching and tagging. In order to improve the usability of Forks Insight, we plan to design a user study to ask for feedback from open source developers. And we would like to add more interactive elements and powerful functions into our tool. There are several directions we are considering to move forward: using more visualization to show meaningful data; identifying features in forks; summarizing the activities of forks by natural language.
 
 \iffalse
 \begin{acks}
