@@ -29,15 +29,14 @@ To give developers a quick summary of what code changes have been made in each f
 
 \subsection{Tagging Forks}
 %
-Developers fork a repository for different reasons: adding new features, fixing bugs, and changing configuration, etc.~\cite{Mikkonen2011,Robles2012,dubinsky2013exploratory,stanciulescu2015forked}, which could help developers of interests\Luyao{developers of interests?} quickly find the fork they want to explore. Thus, Forks Insight allows users to tag each fork based on their understanding of the main activity.\Luyao{check this sentence} (see the last column in Fig.~\ref{GUI}). We hope user's input on tags could not only help themselves maintain and understand each fork, but also help the whole community, especially for the new users who are not familiar with this repository to get a better overview. The tagging result will also be useful for future research.
+Developers fork a repository for different reasons: adding new features, fixing bugs, and changing configuration, etc.~\cite{Mikkonen2011,Robles2012,dubinsky2013exploratory,stanciulescu2015forked}, which could help developers quickly find specific forks they want to explore. Thus, Forks Insight allows users to tag each fork based on their understanding of the main activity (see the last column in Fig.~\ref{GUI}). We hope user's input on tags could not only help themselves maintain and understand each fork, but also help the whole community, especially for the new users who are not familiar with this repository to get a better overview. The tagging result will also be useful for future research.
 
 
 \subsection{Searching Related Forks}
 
 The interviews we did for INFOX show that the problem of redundant development exists in forks. For example, a developer found another fork implemented a very simple one-function as they did several years ago, and he said ``\emph{I think they should use our code, there is great reason to use it.''} Another developer said: \emph{"I can see multiple forks are working on the similar problem. This one looks like it is adding [...] that I already added"} ~\cite{ZSLXWK:ICSE18}.
 
-To identify redundant development, we design the functionality of keywords searching, which is a simple and practical way to find code changes that contain the same keyword\Luyao{change to: with the similar changes?}. For example, in Fig.~\ref{GUI}, if developers search for "cuda", which is a common keyword related to GPU configuration in repository of \emph{tensorflow/tensorflow}, Forks Insight will return several forks that have made code changes related to ``cuda''. This example shows that, by using keyword searching, user could find similar forks and potentially reduce the redundant development.
-
+To identify redundant development, we design the functionality of keywords searching, which is a simple and practical way to find code changes that contain the same keyword. We expect to find forks that are working on the similar topics, and build the connection between the developers that could potentially collaborate and hopefully reduce the redundant development. For example, in Fig.~\ref{GUI}, if developers search for "cuda", which is a common keyword related to GPU configuration in repository of \emph{tensorflow/tensorflow}, Forks Insight will return several forks that have made code changes related to ``cuda''. 
 \iffalse
 \begin{figure}[H] 
 \centering
