@@ -1,7 +1,10 @@
 # Fdb version 3
-["pdflatex"] 0 "body.tex" "body.pdf" "body" 0
+["pdflatex"] 1517723879 "body.tex" "body.pdf" "body" 1517723879
+  "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
+  "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1515989141 4129592 7e2eb7ed2c2126f9459f3f282ed9d7bb ""
+  "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "body.aux" 1517723258 8 a94a2480d3289e625eea47cd1b285758 ""
-  "body.tex" 0 -1 0 ""
+  "body.tex" 1517723870 7967 eb3a6ad64d60aa57e7fc2c23ed2ef6e5 ""
   (generated)
-  "body.pdf"
   "body.log"
+  "body.pdf"
